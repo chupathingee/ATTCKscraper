@@ -20,10 +20,10 @@ Execute ATTCKscraper.sh with a technique ID:
 ```
 
 ## Author
-Matt Brenton [chupath1ngee](https://twitter.com/chupath1ngee)
+Matt Brenton [@chupath1ngee](https://twitter.com/chupath1ngee)
 
 ## Inspired By
-Walter Legowski [sadprocessor](https://twitter.com/sadprocessor)
+Walter Legowski [@sadprocessor](https://twitter.com/sadprocessor)
 
 ## License
 GNU General Public License v3.0, see LICENSE for details
