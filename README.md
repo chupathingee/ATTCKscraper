@@ -9,7 +9,7 @@ The project is currently in an alpha stage, which means it is just being built. 
 ### Installation
 Clone repository and cd into ATTCKscraper directory:
 ```
-git clone $URL
+git clone https://github.com/chupathingee/ATTCKscraper.git
 cd ATTCKscraper
 ```
 
